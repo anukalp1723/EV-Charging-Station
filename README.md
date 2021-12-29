@@ -8,18 +8,18 @@ Tech Stacks used:- HTML, CSS, Bootstrap, GOOGLE Maps API, Javascript and Mysql d
 
 Front-end Part:- This project is made through HTML, CSS and Bootstrap for the frontend part. You haave to download whole project to see frontend part. We have shared some screenshorts of Project below.
 
-<img src="/Screenshots/ss1.JPG" width="500">
+<img src="/Screenshots/ss1.JPG" width="800">
 
-<img src="https://drive.google.com/file/d/1IGqyen5t1lRPI-QJoeDA7RbpBy54xVpb/view?usp=sharing" width="500">
+<img src="/Screenshots/ss2.JPG" width="800">
 
-<img src="https://drive.google.com/file/d/1-nnzHMihFeke465YZOb1QXHSW1l_gkub/view?usp=sharing" width="500">
+<img src="/Screenshots/ss3.JPG" width="800">
 
-<img src="https://drive.google.com/file/d/19A0Bgu8qMb766NTNBKLQaLb3x8rKCfz_/view?usp=sharing" width="500">
+<img src="/Screenshots/ss4.JPG" width="800">
 
 Backend:- We have used Google maps API for navigating to the nearest charging station and as of now we have used random numbers through Rand() function for no of charging ports and no of vehicles in queue. We will use actual data of cars when we can partner with the charging stations.
 
-<img src="https://drive.google.com/file/d/19A0Bgu8qMb766NTNBKLQaLb3x8rKCfz_/view?usp=sharing" width="500">
+<img src="/Screenshots/ssb1.JPG" width="800">
 
-<img src="https://drive.google.com/file/d/1gILUrnzJAdIRqy59gEpyT6PJ2EVWyVhs/view?usp=sharing" width="500">
+<img src="/Screenshots/ssb2.JPG" width="800">
 
-<img src="https://drive.google.com/file/d/1sxRR1bTL1MnYb9v1T5_a3bA7c0xDO7Ce/view?usp=sharing" width="500">
+<img src="/Screenshots/ssb3.JPG" width="800">
