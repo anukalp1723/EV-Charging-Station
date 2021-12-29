@@ -23,3 +23,8 @@ Backend:- We have used Google maps API for navigating to the nearest charging st
 <img src="/Screenshots/ssb2.JPG" width="800">
 
 <img src="/Screenshots/ssb3.JPG" width="800">
+
+
+NOTE:- This project is made by Rithik Raj Pandey and Sarthak Khandelwal.
+Rithik Raj Pandey:- https://github.com/rithikrajyt
+Sarthak Khandelwal:- https://github.com/skk401
