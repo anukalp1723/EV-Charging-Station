@@ -8,7 +8,7 @@ Tech Stacks used:- HTML, CSS, Bootstrap, GOOGLE Maps API, Javascript and Mysql d
 
 Front-end Part:- This project is made through HTML, CSS and Bootstrap for the frontend part. You haave to download whole project to see frontend part. We have shared some screenshorts of Project below.
 
-<img src="/screenshots/ss1.jpg" width="500">
+<img src="/Screenshots/ss1.JPG" width="500">
 
 <img src="https://drive.google.com/file/d/1IGqyen5t1lRPI-QJoeDA7RbpBy54xVpb/view?usp=sharing" width="500">
 
